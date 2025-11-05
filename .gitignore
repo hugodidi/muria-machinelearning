@@ -1,3 +1,7 @@
+#non-propietary files
+Classification/src/classification_notebook.ipynb
+Regression/src/regression-es.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
